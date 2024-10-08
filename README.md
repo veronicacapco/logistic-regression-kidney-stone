@@ -1,1 +1,1 @@
-# logisitc-regression-kidney-stone
+# Assessing the Effectiveness of Medical Treatments: Logistic Regression and Kidney Stones
